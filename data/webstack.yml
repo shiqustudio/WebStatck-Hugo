@@ -164,7 +164,7 @@
           description: 随时随地开启在线会议
         - title: 拓展搜搜
           url: https://www.crxsoso.com/
-          logo: 1671981830270.png
+          logo: 20230908074707.png
           description: 免费下载浏览器插件的神器  
         - title: All2All
           url: https://www.alltoall.net/
@@ -1460,14 +1460,14 @@
     
     - term: 游戏趣玩
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+#       - title: 百度贴吧
+#         logo: 百度贴吧.jpg
+#         url: ttps://tieba.baidu.com/index.html
+#         description: 百度贴吧。
+#       - title: 台服战地
+#         logo: 战地之王.png
+#         url: https://ava.mangot5.com/ava/index
+#         description: 台服 AVA 战地之王。
         - title: 几枝
           url: https://toolwa.com/jizhi/
           logo: 1680282468591.png
@@ -1879,7 +1879,7 @@
           description: Abstract Fonts (13,866 free fonts).  
         - title: 百字
           url: https://www.100font.com/
-          logo: 1680354695585.png
+          logo: 20230908074514.png
           description: 专注于收集可商用字体的网站
           
     - term: 产品原型
