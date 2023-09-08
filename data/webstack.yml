@@ -3,11 +3,28 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-#   - title: 关注我们
-#     logo: ""
-#     url: https://bioitee.com
-#     qrcode: assets/images/logos/qrcode.jpg
-#     description: BioIT 爱好者！
+    - title: 关注我们
+      logo: favicon.png
+      url: https://blog.funvip.live/about/
+#      qrcode: assets/images/logos/qrcode.jpg
+      qrcode: assets/images/logos/wxcode.jpg
+      description: 拾趣、分享！
+    - title: AI知识集
+      logo: favicon.png
+      url: https://blog.funvip.live/posts/aisummary/
+      description: 精选AI知识合集。
+    - title: AI工具集
+      logo: favicon.png
+      url: https://blog.funvip.live/dailyshare/ai资源合集/
+      description: 精选AI工具合集。
+    - title: Github精选
+      logo: favicon.png
+      url: https://blog.funvip.live/dailyshare/开源合集/
+      description: 精选Github项目合集。
+    - title: 线上转档
+      logo: favicon.png
+      url: https://blog.funvip.live/tools/freetoolsonline/
+      description: 精选线上格式转换。
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -16,10 +33,6 @@
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
-#   - title: Md2X 定制版
-#     logo: mdx.png
-#     url: https://mdx.ncbix.com/
-#     description: Markdown 排版利器，Md2All 定制版。
     - title: 搜狗微信
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
@@ -62,6 +75,10 @@
   list: 
     - term: 在线工具
       links:
+        - title: 在线工具
+          url: https://blog.funvip.live/tools/在线工具/
+          logo: favicon.png
+          description: 拾趣收藏实用在线工具。
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
